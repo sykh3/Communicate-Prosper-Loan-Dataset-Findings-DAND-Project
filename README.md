@@ -1,7 +1,5 @@
 # DAND Projects (Udacity Course)
-# Communicate-Prosper-Loan-Dataset-Findings-DAND-Project
-Communicate Prosper Loan Dataset Findings - DAND 3rd Project
-# Prosper Marketplace Peer-to-Peer Lending Data Exploration
+# Communicate Prosper Marketplace Peer-to-Peer Lending Data Exploration
 ## by Saja Khdour
 
 ## Dataset
